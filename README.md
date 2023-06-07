@@ -1,4 +1,4 @@
-# tribute-page.github.io
+# tribute-page for BTS
 
 This is a Tribute Page for BTS (Bangtan Sonyeondan), a South Korean band.
 
